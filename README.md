@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Portfolio for your awsome work
+![alt text](https://github.com/HGSChandeepa/portofolio-website-for-free-framer-motion-Next-js-and-tailwiind-/blob/main/image.png?raw=true)
+
 
 ## Getting Started
 
