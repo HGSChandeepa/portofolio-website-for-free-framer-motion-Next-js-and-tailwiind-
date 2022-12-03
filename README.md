@@ -1,4 +1,4 @@
-##Portfolio for your awsome work
+## Portfolio for your awsome work
 
 ![alt text](https://github.com/HGSChandeepa/portofolio-website-for-free-framer-motion-Next-js-and-tailwiind-/blob/main/image.png?raw=true)
 
